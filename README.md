@@ -23,3 +23,6 @@ https://documenter.getpostman.com/view/18669425/2sBXc8pP9a
 
 ### Here is the Report:
 <img width="920" height="858" alt="Screenshot 2026-02-06 174406" src="https://github.com/user-attachments/assets/65769a0e-a148-4d66-86b4-2c8cc5d63281" />
+
+### Here is the Total Request:
+<img width="455" height="883" alt="Screenshot 2026-02-06 180924" src="https://github.com/user-attachments/assets/364780a0-fb75-41f9-ac88-320a3cadb33b" />
