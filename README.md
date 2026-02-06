@@ -1,4 +1,4 @@
-# DailyFinance_Playwright_Automation
+# UserManagement_Postman_Collection
 Dmoney User Management API handles all user-related operations in the system. It allows creating, updating, deleting, and fetching user accounts, along with login, logout, and password management. The API uses JWT authentication and role-based access control to secure endpoints. Admins can manage users and roles, while regular users can update their profiles and reset passwords. Responses are standardized, and input validation is required to ensure security and consistency.
 
 ### Technology:
